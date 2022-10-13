@@ -1,0 +1,23 @@
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container-fluid-row-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    box-sizing: border-box;
+}
+.product-btn-submit{
+    background: #4CAF50 !important;
+    border-color: #4CAF50 !important;
+    margin-bottom: 100px;
+}
+.product-btn-submit:hover{
+    background: #3caf41 !important;
+    border-color: #3caf41 !important;
+}
